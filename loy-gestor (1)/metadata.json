@@ -1,0 +1,5 @@
+{
+  "name": "Loy Gestor",
+  "description": "Sistema de gestão financeira avançado para controle de empréstimos, parcelas e desempenho de carteira.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
